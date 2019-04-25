@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+<!-- 配置struts2配置文件的根元素 -->
+<struts>
+	<!-- 开启ognl访问类的静态方法 -->
+	<constant name="struts.ognl.allowStaticMethodAccess" value="true"></constant>
+	
+	<package name="demo6" extends="struts-default" namespace="/">
+		<!-- 定义拦截器 -->
+		<interceptors>
+			<interceptor name="interceptor1" class="com.suidian.www.demo6.myinterceptor"></interceptor>
+			<interceptor name="interceptor2" class="com.suidian.www.demo6.myinterceptor2"></interceptor>
+		</interceptors>
+		
+		<action name="intercedemo" class="com.suidian.www.demo6.demoTest">
+			<result>/content/inter.jsp</result>
+			<!-- 执行默认拦截器 -->
+			<interceptor-ref name="defaultstrack"></interceptor-ref>
+			<!-- 使用拦截器 -->
+			<interceptor-ref name="interceptor2"></interceptor-ref>
+			<interceptor-ref name="interceptor1"></interceptor-ref>
+		</action>
+		
+		
+	</package>
+</struts>

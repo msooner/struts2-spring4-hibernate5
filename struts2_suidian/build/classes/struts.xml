@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+<!-- 配置struts2配置文件的根元素 -->
+<struts>
+   <include file="com/suidian/www/demo1/demo.xml" ></include>
+   <include file="com/suidian/www/demo2/curd.xml" ></include>
+   <include file="com/suidian/www/demo3/demo.xml" ></include>
+   <include file="com/suidian/www/demo4/demo.xml" ></include>
+   <include file="com/suidian/www/demo5/demo.xml" ></include>
+  <!--  <include file="com/suidian/www/demo6/demo.xml" ></include> -->
+   
+
+</struts>

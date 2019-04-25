@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+    
+<hibernate-mapping>
+	<!-- 
+		name:类的路径
+		table:表名
+		catalog:数据库名
+	 -->
+	<class name="com.xx.www.domain.Customer" table="demo" >
+		<!-- 主键 -->
+		<!-- 
+			name:类中的属性名
+			column：表中的字段名
+			length:字段长度
+			type:字段类型
+		 -->
+		<id name="id" column="id" >
+			<!-- 
+			1.主键生成策略
+				increment：hibernate中提供的自动增长机制，在单线程中使用
+				identity：使用数据库底层自动增长，适用于有自动增长机制的数据库Mysql
+				sequence：适用于Oracle，序列方式
+				uuid：适用于字符串主键，随机生成字符串
+				native：本地策略，自动切换identity和sequence
+				assigned：hibernate放弃外键管理
+			 -->
+			<generator class="native"></generator>
+		</id>
+		<!-- 
+			name:类中的属性名
+			column：表中的字段名
+			length:字段长度
+			type:字段类型
+			not-null: 非空
+			unique： 唯一
+		 -->
+		<property name="name" column="name" ></property>
+	</class>
+</hibernate-mapping>

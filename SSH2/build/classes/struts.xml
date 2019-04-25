@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+<!-- 配置struts2配置文件的根元素 -->
+<struts>
+	<!-- 开启常量，开启struts和spring整合 -->
+	<constant name="struts.objectFactory" value="spring"></constant>
+ 	<include file="com/xx/www/web/action/Customer.xml" ></include>
+
+</struts>

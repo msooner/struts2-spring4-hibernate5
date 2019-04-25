@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+<!-- 配置struts2配置文件的根元素 -->
+<struts>
+	<!-- 开启ognl访问类的静态方法 -->
+	<constant name="struts.ognl.allowStaticMethodAccess" value="true"></constant>
+	
+	<package name="demo5" extends="struts-default" namespace="/">
+		<action name="ognldemo1" class="com.suidian.www.demo5.ognlDemo1">
+			<result name="success">/content/ognl/ognl.jsp</result>
+		</action>
+		<action name="ognldemo2" class="com.suidian.www.demo5.ognlDemo2">
+			<result name="success">/content/ognl/ognl.jsp</result>
+		</action>
+		<action name="ognldemo3" class="com.suidian.www.demo5.ognlDemo3">
+			<result name="success">/content/ognl/ognl2.jsp</result>
+		</action>
+	</package>
+</struts>

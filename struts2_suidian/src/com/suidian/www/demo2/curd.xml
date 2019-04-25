@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+	<!-- 开启动态方法访问 -->
+	<constant name="struts.enable.DynamicMethodInvocation" value="true"></constant>
+	
+	<package name="demo2" extends="struts-default" namespace="/">
+   		
+   		<action name="addUser" method="add" class="com.suidian.www.demo2.curdAction"></action>
+   		<action name="deleteUser" method="delete" class="com.suidian.www.demo2.curdAction"></action>
+   		<action name="updateUser" method="update" class="com.suidian.www.demo2.curdAction"></action>
+   		<action name="findUser" method="find" class="com.suidian.www.demo2.curdAction"></action>
+   		
+   		<!-- 通配符方式 -->
+   		<action name="*_User" method="{1}" class="com.suidian.www.demo2.curdAction"></action>
+   		
+   		<action name="*-*" method="{1}" class="com.suidian.www.demo2.{2}"></action>
+   		
+   		<!-- 动态方式 -->
+   		<action name="curd" class="com.suidian.www.demo2.curdAction"></action>
+   		
+   </package>
+</struts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+	<session-factory>
+		<!-- 连接数据库基本参数 -->
+		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+		<property name="hibernate.connection.url">jdbc:mysql://localhost:3307/ssh</property>
+		<property name="hibernate.connection.username">root</property>
+		<property name="hibernate.connection.password">ubuntu</property>
+		<!-- 配置mysql引擎 -->
+		<property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+		
+		<!-- 可选配置：打印sql语句 -->
+		<property name="hibernate.show_sql">true</property>
+		<!-- 可选配置：格式化sql语句 -->
+		<property name="hibernate.format_sql">true</property>
+		<!-- 
+			可选配置：自动建表
+			none：不使用hibernate自动建表
+			create:如果已经有表，删除后重建，如果没有，新建表（测试）
+			create-drop:如果已经有表删除，执行操作，删除这个表，如果没有表新建一个，执行完操作后，删除表
+			*update:如果有表，使用原有表，没有就新建（更新表结构）
+			*validate：如果没有不会新建，只会使用原有表（检验映射和表结构是否一致，不一致报错）
+		 -->
+		 <property name="hibernate.hbm2ddl.auto">update</property>
+		 
+		<mapping resource="com/xx/www/domain/Customer.hbm.xml"/>
+	</session-factory>
+</hibernate-configuration>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+<!-- 配置struts2配置文件的根元素 -->
+<struts>
+	<package name="demo4" extends="struts-default" namespace="/">
+		<!-- 跳转input类型转换等错误 -->
+		<global-results>
+			<result name="input">/content/demo4.jsp</result>
+		</global-results>
+		
+		<action name="sub1-demo4" class="com.suidian.www.demo4.demo4" method="test"></action>
+		<action name="sub2-demo4" class="com.suidian.www.demo4.demo5" method="test"></action>
+		<action name="sub3-demo4" class="com.suidian.www.demo4.demo6" method="test"></action>
+		<action name="sub4-demo4" class="com.suidian.www.demo4.demo7"></action>
+		<action name="sub5-demo4" class="com.suidian.www.demo4.demo8"></action>
+	</package>
+</struts>

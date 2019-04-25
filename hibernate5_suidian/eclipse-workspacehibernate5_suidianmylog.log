@@ -1,0 +1,1337 @@
+10:02:23,655  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:02:23,661  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:02:23,663  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:02:24,129  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:02:26,058  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:02:26,063  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:02:26,065  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:02:26,066  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:02:26,076  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:02:26,751  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:02:26,827  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:02:28,191  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:02:47,320  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:02:47,327  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:02:47,328  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:02:47,823  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:02:49,930  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:02:49,940  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:02:49,941  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:02:49,941  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:02:49,946  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:02:50,294  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:02:50,344  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:02:51,791  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:15:55,253  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:15:55,306  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:15:55,308  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:15:55,683  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:15:57,266  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:15:57,274  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:15:57,275  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:15:57,275  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:15:57,280  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:15:57,705  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:15:57,751  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:15:58,973  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:16:51,858  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:16:51,907  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:16:51,909  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:16:52,299  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:16:53,816  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:16:53,824  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:16:53,825  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:16:53,826  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:16:53,831  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:16:54,197  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:16:54,239  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:16:55,534  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:35:01,735  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:35:01,740  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:35:01,742  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:35:02,160  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:35:03,925  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:35:03,931  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:35:03,932  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:35:03,933  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:35:03,937  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:35:04,312  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:35:04,361  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:35:05,541  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:51:55,372  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:51:55,378  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:51:55,381  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:51:55,794  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:51:57,399  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:51:57,407  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:51:57,408  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:51:57,409  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:51:57,414  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:51:57,751  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:51:57,798  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:51:59,237  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:59:43,715  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:59:43,723  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:59:43,728  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:59:44,158  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:59:45,771  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:59:45,776  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:59:45,777  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:59:45,778  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:59:45,782  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:59:46,164  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:59:46,203  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:59:47,384  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+11:01:36,133  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+11:01:36,138  INFO Environment:213 - HHH000206: hibernate.properties not found
+11:01:36,140  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+11:01:36,580  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+11:01:38,276  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:01:38,282  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+11:01:38,283  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+11:01:38,283  INFO connections:141 - HHH10001003: Autocommit mode: false
+11:01:38,288  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:01:38,846  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+11:01:38,933  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+11:01:40,311  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+11:01:40,688  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+11:02:38,023  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+11:02:38,028  INFO Environment:213 - HHH000206: hibernate.properties not found
+11:02:38,030  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+11:02:38,430  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+11:02:39,889  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:02:39,896  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+11:02:39,897  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+11:02:39,898  INFO connections:141 - HHH10001003: Autocommit mode: false
+11:02:39,904  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:02:40,204  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+11:02:40,250  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+11:02:41,646  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+11:02:41,823  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+11:03:35,155  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+11:03:35,161  INFO Environment:213 - HHH000206: hibernate.properties not found
+11:03:35,162  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+11:03:35,542  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+11:03:36,987  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:03:36,992  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+11:03:36,993  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+11:03:36,994  INFO connections:141 - HHH10001003: Autocommit mode: false
+11:03:36,997  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:03:37,316  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+11:03:37,363  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+11:03:38,561  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+11:03:38,793  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:56:16,008  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:56:16,045  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:56:16,048  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:56:17,847  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:56:19,960  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:56:19,983  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:56:19,984  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:56:19,984  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:56:19,987  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:56:22,973  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:56:23,154  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:56:25,824  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+14:40:28,867  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+14:40:28,902  INFO Environment:213 - HHH000206: hibernate.properties not found
+14:40:28,906  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+14:40:30,610  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+14:40:32,701  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+14:40:32,725  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+14:40:32,726  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+14:40:32,726  INFO connections:141 - HHH10001003: Autocommit mode: false
+14:40:32,727  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+14:40:32,730  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+14:40:33,916  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+14:40:34,070  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+14:40:36,462  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+14:44:34,104  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+14:44:34,110  INFO Environment:213 - HHH000206: hibernate.properties not found
+14:44:34,112  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+14:44:34,552  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+14:44:36,410  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+14:44:36,416  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+14:44:36,417  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+14:44:36,417  INFO connections:141 - HHH10001003: Autocommit mode: false
+14:44:36,418  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+14:44:36,422  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+14:44:36,764  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+14:44:36,810  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+14:44:38,061  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+14:44:38,312  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+14:47:14,405  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+14:47:14,420  INFO Environment:213 - HHH000206: hibernate.properties not found
+14:47:14,424  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+14:47:14,901  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+14:47:16,548  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+14:47:16,557  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+14:47:16,558  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+14:47:16,558  INFO connections:141 - HHH10001003: Autocommit mode: false
+14:47:16,559  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+14:47:16,564  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+14:47:16,942  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+14:47:17,003  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+14:47:18,298  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+14:47:18,572  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+14:47:18,789  WARN HqlSqlWalker:992 - [DEPRECATION] Encountered positional parameter near line 1, column 42 in HQL: [from com.suidian.www.demo1.User where id<?].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+14:48:08,081  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+14:48:08,086  INFO Environment:213 - HHH000206: hibernate.properties not found
+14:48:08,088  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+14:48:08,568  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+14:48:10,434  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+14:48:10,445  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+14:48:10,446  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+14:48:10,446  INFO connections:141 - HHH10001003: Autocommit mode: false
+14:48:10,447  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+14:48:10,453  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+14:48:10,786  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+14:48:10,833  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+14:48:12,033  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+14:48:12,212  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+14:48:12,410  WARN HqlSqlWalker:992 - [DEPRECATION] Encountered positional parameter near line 1, column 42 in HQL: [from com.suidian.www.demo1.User where id=?].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+14:49:04,773  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+14:49:04,779  INFO Environment:213 - HHH000206: hibernate.properties not found
+14:49:04,781  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+14:49:05,247  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+14:49:07,151  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+14:49:07,158  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+14:49:07,159  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+14:49:07,159  INFO connections:141 - HHH10001003: Autocommit mode: false
+14:49:07,160  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+14:49:07,166  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+14:49:07,585  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+14:49:07,649  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+14:49:09,155  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+14:49:09,354  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+14:49:09,565  WARN HqlSqlWalker:992 - [DEPRECATION] Encountered positional parameter near line 1, column 49 in HQL: [from com.suidian.www.demo1.User where name like ?].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+14:49:44,722  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+14:49:44,729  INFO Environment:213 - HHH000206: hibernate.properties not found
+14:49:44,730  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+14:49:45,146  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+14:49:46,775  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+14:49:46,781  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+14:49:46,781  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+14:49:46,782  INFO connections:141 - HHH10001003: Autocommit mode: false
+14:49:46,782  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+14:49:46,786  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+14:49:47,116  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+14:49:47,162  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+14:49:48,402  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+14:49:48,586  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+14:49:48,680  WARN HqlSqlWalker:992 - [DEPRECATION] Encountered positional parameter near line 1, column 49 in HQL: [from com.suidian.www.demo1.User where name like ?].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+14:53:05,838  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+14:53:05,845  INFO Environment:213 - HHH000206: hibernate.properties not found
+14:53:05,847  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+14:53:06,312  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+14:53:08,182  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+14:53:08,188  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+14:53:08,189  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+14:53:08,189  INFO connections:141 - HHH10001003: Autocommit mode: false
+14:53:08,189  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+14:53:08,193  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+14:53:08,591  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+14:53:08,647  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+14:53:09,983  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+14:55:18,532  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+14:55:18,538  INFO Environment:213 - HHH000206: hibernate.properties not found
+14:55:18,540  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+14:55:18,979  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+14:55:20,806  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+14:55:20,814  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+14:55:20,815  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+14:55:20,816  INFO connections:141 - HHH10001003: Autocommit mode: false
+14:55:20,817  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+14:55:20,826  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+14:55:21,199  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+14:55:21,248  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+14:55:22,644  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+09:45:12,501  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+09:45:12,543  INFO Environment:213 - HHH000206: hibernate.properties not found
+09:45:12,550  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+09:45:14,387  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+09:45:16,488  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+09:45:16,511  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+09:45:16,512  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+09:45:16,512  INFO connections:141 - HHH10001003: Autocommit mode: false
+09:45:16,513  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+09:45:16,515  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+09:45:17,680  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+09:45:17,823  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+09:45:20,218  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+09:50:57,667  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+09:50:57,673  INFO Environment:213 - HHH000206: hibernate.properties not found
+09:50:57,675  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+09:50:58,043  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+09:50:59,727  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+09:50:59,738  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+09:50:59,739  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+09:50:59,740  INFO connections:141 - HHH10001003: Autocommit mode: false
+09:50:59,742  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+09:50:59,748  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+09:51:00,068  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+09:51:00,114  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+09:51:01,161  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+09:53:22,928  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+09:53:22,934  INFO Environment:213 - HHH000206: hibernate.properties not found
+09:53:22,936  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+09:53:23,373  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+09:53:25,018  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+09:53:25,025  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+09:53:25,026  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+09:53:25,026  INFO connections:141 - HHH10001003: Autocommit mode: false
+09:53:25,027  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+09:53:25,032  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+09:53:25,315  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+09:53:25,366  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+09:53:26,747  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:01:25,444  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:01:25,450  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:01:25,452  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:01:25,827  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:01:27,323  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:01:27,330  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:01:27,331  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:01:27,332  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:01:27,333  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+10:01:27,337  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:01:27,682  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:01:27,738  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:01:28,986  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:04:19,878  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:04:19,883  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:04:19,885  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:04:20,329  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:04:21,888  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:04:21,896  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:04:21,898  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:04:21,899  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:04:21,900  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+10:04:21,909  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:04:22,356  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:04:22,448  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:04:24,002  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:05:38,291  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:05:38,297  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:05:38,299  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:05:38,660  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:05:40,131  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:05:40,136  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:05:40,136  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:05:40,136  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:05:40,137  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+10:05:40,144  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:05:40,445  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:05:40,490  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:05:41,583  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:08:31,778  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:08:31,783  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:08:31,785  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:08:32,152  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:08:34,056  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:08:34,062  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:08:34,063  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:08:34,063  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:08:34,063  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+10:08:34,067  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:08:34,397  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:08:34,446  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:08:35,574  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:11:18,748  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:11:18,755  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:11:18,757  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:11:19,151  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:11:20,677  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:11:20,684  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:11:20,685  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:11:20,686  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:11:20,686  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+10:11:20,691  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:11:20,993  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:11:21,038  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:11:22,387  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:12:04,414  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:12:04,420  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:12:04,422  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:12:04,853  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:12:06,646  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:12:06,651  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:12:06,652  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:12:06,652  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:12:06,653  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+10:12:06,658  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:12:06,967  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:12:07,012  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:12:08,098  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:13:48,488  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:13:48,495  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:13:48,496  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:13:48,927  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:13:50,738  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:13:50,747  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:13:50,748  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:13:50,748  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:13:50,749  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+10:13:50,754  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:13:51,066  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:13:51,113  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:13:52,727  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:18:14,165  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:18:14,172  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:18:14,174  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:18:14,616  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:18:16,312  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:18:16,321  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:18:16,322  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:18:16,322  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:18:16,324  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+10:18:16,332  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:18:16,636  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:18:16,681  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:18:17,910  INFO SchemaExport:400 - HHH000227: Running hbm2ddl schema export
+10:18:18,164 ERROR SchemaExport:484 - HHH000389: Unsuccessful: drop table if exists cst_customer
+10:18:18,164 ERROR SchemaExport:485 - Cannot delete or update a parent row: a foreign key constraint fails
+10:18:18,581 ERROR SchemaExport:484 - HHH000389: Unsuccessful: create table cst_customer (cust_id bigint not null auto_increment, cust_name varchar(255), cust_source varchar(255), cust_industry varchar(255), cust_level varchar(255), cust_phone varchar(255), cust_mobile varchar(255), primary key (cust_id))
+10:18:18,582 ERROR SchemaExport:485 - Table 'cst_customer' already exists
+10:18:20,492  INFO SchemaExport:464 - HHH000230: Schema export complete
+10:18:59,177  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:18:59,184  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:18:59,186  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:18:59,570  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:19:01,409  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:19:01,415  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:19:01,415  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:19:01,416  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:19:01,417  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+10:19:01,428  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:19:01,761  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:19:01,803  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:19:02,901  INFO SchemaExport:400 - HHH000227: Running hbm2ddl schema export
+10:19:05,986  INFO SchemaExport:464 - HHH000230: Schema export complete
+10:20:17,463  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:20:17,468  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:20:17,470  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:20:17,842  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:20:19,516  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:20:19,523  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:20:19,524  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:20:19,524  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:20:19,525  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+10:20:19,531  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:20:19,819  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:20:19,861  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:20:20,951  INFO SchemaExport:400 - HHH000227: Running hbm2ddl schema export
+10:20:23,898  INFO SchemaExport:464 - HHH000230: Schema export complete
+10:27:41,421  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:27:41,426  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:27:41,428  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:27:41,828  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:27:43,556  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:27:43,561  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:27:43,562  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:27:43,562  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:27:43,563  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+10:27:43,568  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:27:43,850  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:27:43,895  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:27:45,006  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:27:45,610 ERROR SessionImpl:2994 - HHH000346: Error during managed flush [Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1]
+10:27:45,710  INFO AbstractBatchImpl:193 - HHH000010: On release of batch it still contained JDBC statements
+10:29:19,329  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:29:19,334  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:29:19,336  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:29:19,704  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:29:21,357  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:29:21,362  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:29:21,363  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:29:21,363  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:29:21,364  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+10:29:21,367  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:29:21,656  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:29:21,700  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:29:22,821  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:33:14,999  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:33:15,004  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:33:15,007  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:33:15,390  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:33:17,062  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:33:17,069  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:33:17,070  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:33:17,070  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:33:17,071  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+10:33:17,076  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:33:17,393  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:33:17,451  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:33:18,679  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+10:34:17,241  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:34:17,246  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:34:17,248  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:34:17,593  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:34:19,071  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:34:19,078  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:34:19,079  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:34:19,079  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:34:19,079  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+10:34:19,085  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:34:19,386  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:34:19,426  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:34:20,563  INFO SchemaExport:400 - HHH000227: Running hbm2ddl schema export
+10:34:23,356  INFO SchemaExport:464 - HHH000230: Schema export complete
+10:34:47,774  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+10:34:47,782  INFO Environment:213 - HHH000206: hibernate.properties not found
+10:34:47,783  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+10:34:48,207  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+10:34:49,853  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+10:34:49,859  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+10:34:49,860  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+10:34:49,860  INFO connections:141 - HHH10001003: Autocommit mode: false
+10:34:49,861  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+10:34:49,867  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+10:34:50,168  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:34:50,209  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:34:51,337  INFO SchemaExport:400 - HHH000227: Running hbm2ddl schema export
+10:34:54,385  INFO SchemaExport:464 - HHH000230: Schema export complete
+16:28:09,594  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+16:28:09,629  INFO Environment:213 - HHH000206: hibernate.properties not found
+16:28:09,634  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+16:28:11,126  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+16:28:14,187  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+16:28:14,266  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+16:28:14,266  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+16:28:14,267  INFO connections:141 - HHH10001003: Autocommit mode: false
+16:28:14,267  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+16:28:14,272  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+16:28:15,557  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+16:28:15,689  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+16:28:17,840  INFO SchemaExport:400 - HHH000227: Running hbm2ddl schema export
+16:28:18,665 ERROR SchemaExport:484 - HHH000389: Unsuccessful: alter table sys_user_role drop foreign key FKb40xxfch70f5qnyfw8yme1n1s
+16:28:18,666 ERROR SchemaExport:485 - Can't DROP 'FKb40xxfch70f5qnyfw8yme1n1s'; check that column/key exists
+16:28:18,692 ERROR SchemaExport:484 - HHH000389: Unsuccessful: alter table sys_user_role drop foreign key FKhh52n8vd4ny9ff4x9fb8v65qx
+16:28:18,693 ERROR SchemaExport:485 - Can't DROP 'FKhh52n8vd4ny9ff4x9fb8v65qx'; check that column/key exists
+16:28:19,614 ERROR SchemaExport:484 - HHH000389: Unsuccessful: drop table if exists sys_role
+16:28:19,615 ERROR SchemaExport:485 - Cannot delete or update a parent row: a foreign key constraint fails
+16:28:19,696 ERROR SchemaExport:484 - HHH000389: Unsuccessful: drop table if exists sys_user
+16:28:19,696 ERROR SchemaExport:485 - Cannot delete or update a parent row: a foreign key constraint fails
+16:28:20,832 ERROR SchemaExport:484 - HHH000389: Unsuccessful: create table sys_role (role_id bigint not null auto_increment, role_name varchar(255), role_memo varchar(255), primary key (role_id))
+16:28:20,833 ERROR SchemaExport:485 - Table 'sys_role' already exists
+16:28:20,908 ERROR SchemaExport:484 - HHH000389: Unsuccessful: create table sys_user (user_id bigint not null auto_increment, user_code varchar(255), user_name varchar(255), user_password varchar(255), user_state varchar(255), primary key (user_id))
+16:28:20,908 ERROR SchemaExport:485 - Table 'sys_user' already exists
+16:28:23,710  INFO SchemaExport:464 - HHH000230: Schema export complete
+16:28:23,992  WARN SqlExceptionHelper:127 - SQL Error: 1048, SQLState: 23000
+16:28:23,993 ERROR SqlExceptionHelper:129 - Column 'user_code' cannot be null
+16:32:52,328  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+16:32:52,338  INFO Environment:213 - HHH000206: hibernate.properties not found
+16:32:52,340  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+16:32:52,853  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+16:32:54,826  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+16:32:54,840  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+16:32:54,842  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+16:32:54,846  INFO connections:141 - HHH10001003: Autocommit mode: false
+16:32:54,848  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+16:32:54,852  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+16:32:55,192  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+16:32:55,249  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+16:32:57,206  INFO SchemaExport:400 - HHH000227: Running hbm2ddl schema export
+16:33:02,642  INFO SchemaExport:464 - HHH000230: Schema export complete
+16:33:03,017  WARN SqlExceptionHelper:127 - SQL Error: 1062, SQLState: 23000
+16:33:03,017 ERROR SqlExceptionHelper:129 - Duplicate entry '1-1' for key 'PRIMARY'
+16:33:03,020  INFO AbstractBatchImpl:193 - HHH000010: On release of batch it still contained JDBC statements
+16:33:03,021 ERROR SessionImpl:2994 - HHH000346: Error during managed flush [could not execute statement]
+16:38:06,044  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+16:38:06,054  INFO Environment:213 - HHH000206: hibernate.properties not found
+16:38:06,057  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+16:38:06,515  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+16:38:08,469  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+16:38:08,495  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+16:38:08,498  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+16:38:08,498  INFO connections:141 - HHH10001003: Autocommit mode: false
+16:38:08,498  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+16:38:08,514  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+16:38:09,028  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+16:38:09,075  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+16:38:10,395  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+16:43:50,811  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+16:43:50,821  INFO Environment:213 - HHH000206: hibernate.properties not found
+16:43:50,821  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+16:43:51,211  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+16:43:52,854  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+16:43:52,861  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+16:43:52,861  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+16:43:52,861  INFO connections:141 - HHH10001003: Autocommit mode: false
+16:43:52,865  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+16:43:52,865  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+16:43:53,171  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+16:43:53,221  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+16:43:54,821  INFO SchemaExport:400 - HHH000227: Running hbm2ddl schema export
+16:43:59,931  INFO SchemaExport:464 - HHH000230: Schema export complete
+16:45:06,449  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+16:45:06,463  INFO Environment:213 - HHH000206: hibernate.properties not found
+16:45:06,463  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+16:45:07,120  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+16:45:09,166  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+16:45:09,173  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+16:45:09,173  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+16:45:09,176  INFO connections:141 - HHH10001003: Autocommit mode: false
+16:45:09,176  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+16:45:09,183  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+16:45:09,512  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+16:45:09,573  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+16:45:11,263  INFO SchemaExport:400 - HHH000227: Running hbm2ddl schema export
+16:45:18,913  INFO SchemaExport:464 - HHH000230: Schema export complete
+16:47:10,993  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+16:47:11,002  INFO Environment:213 - HHH000206: hibernate.properties not found
+16:47:11,002  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+16:47:11,496  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+16:47:13,576  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+16:47:13,586  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+16:47:13,586  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+16:47:13,586  INFO connections:141 - HHH10001003: Autocommit mode: false
+16:47:13,586  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+16:47:13,593  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+16:47:13,895  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+16:47:13,943  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+16:47:15,606  INFO SchemaExport:400 - HHH000227: Running hbm2ddl schema export
+16:47:21,173  INFO SchemaExport:464 - HHH000230: Schema export complete
+16:51:12,888  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+16:51:12,893  INFO Environment:213 - HHH000206: hibernate.properties not found
+16:51:12,895  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+16:51:13,298  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+16:51:14,947  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+16:51:14,954  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+16:51:14,954  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+16:51:14,955  INFO connections:141 - HHH10001003: Autocommit mode: false
+16:51:14,956  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+16:51:14,962  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+16:51:15,306  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+16:51:15,355  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+16:51:16,804  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+16:52:03,742  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+16:52:03,749  INFO Environment:213 - HHH000206: hibernate.properties not found
+16:52:03,751  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+16:52:04,138  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+16:52:05,888  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+16:52:05,894  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+16:52:05,895  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+16:52:05,895  INFO connections:141 - HHH10001003: Autocommit mode: false
+16:52:05,896  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+16:52:05,905  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+16:52:06,197  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+16:52:06,244  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+16:52:07,493  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+16:52:41,538  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+16:52:41,546  INFO Environment:213 - HHH000206: hibernate.properties not found
+16:52:41,548  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+16:52:42,029  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+16:52:43,801  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+16:52:43,810  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+16:52:43,811  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+16:52:43,811  INFO connections:141 - HHH10001003: Autocommit mode: false
+16:52:43,812  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+16:52:43,817  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+16:52:44,118  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+16:52:44,159  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+16:52:45,407  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+16:53:23,724  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+16:53:23,730  INFO Environment:213 - HHH000206: hibernate.properties not found
+16:53:23,731  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+16:53:24,133  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+16:53:25,610  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+16:53:25,617  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+16:53:25,617  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+16:53:25,618  INFO connections:141 - HHH10001003: Autocommit mode: false
+16:53:25,618  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+16:53:25,622  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+16:53:25,917  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+16:53:25,971  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+16:53:27,295  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+16:55:20,635  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+16:55:20,641  INFO Environment:213 - HHH000206: hibernate.properties not found
+16:55:20,643  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+16:55:21,023  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+16:55:22,624  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+16:55:22,631  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+16:55:22,632  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+16:55:22,633  INFO connections:141 - HHH10001003: Autocommit mode: false
+16:55:22,634  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+16:55:22,638  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+16:55:22,921  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+16:55:22,967  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+16:55:24,223  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+16:56:13,370  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+16:56:13,376  INFO Environment:213 - HHH000206: hibernate.properties not found
+16:56:13,378  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+16:56:13,754  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+16:56:15,224  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+16:56:15,229  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+16:56:15,230  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+16:56:15,231  INFO connections:141 - HHH10001003: Autocommit mode: false
+16:56:15,231  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+16:56:15,236  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+16:56:15,554  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+16:56:15,600  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+16:56:16,827  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+16:57:00,388  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+16:57:00,393  INFO Environment:213 - HHH000206: hibernate.properties not found
+16:57:00,395  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+16:57:00,788  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+16:57:02,425  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+16:57:02,433  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+16:57:02,434  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+16:57:02,434  INFO connections:141 - HHH10001003: Autocommit mode: false
+16:57:02,435  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+16:57:02,439  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+16:57:02,724  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+16:57:02,774  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+16:57:04,057  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+16:57:46,987  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+16:57:46,993  INFO Environment:213 - HHH000206: hibernate.properties not found
+16:57:46,995  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+16:57:47,389  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+16:57:49,043  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+16:57:49,049  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+16:57:49,049  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+16:57:49,050  INFO connections:141 - HHH10001003: Autocommit mode: false
+16:57:49,050  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+16:57:49,061  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+16:57:49,356  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+16:57:49,407  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+16:57:50,705  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+16:58:37,274  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+16:58:37,280  INFO Environment:213 - HHH000206: hibernate.properties not found
+16:58:37,281  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+16:58:37,664  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+16:58:39,468  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+16:58:39,477  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+16:58:39,478  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+16:58:39,479  INFO connections:141 - HHH10001003: Autocommit mode: false
+16:58:39,479  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+16:58:39,485  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+16:58:39,838  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+16:58:39,882  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+16:58:41,197  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+17:01:23,919  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+17:01:23,925  INFO Environment:213 - HHH000206: hibernate.properties not found
+17:01:23,927  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+17:01:24,314  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+17:01:26,220  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+17:01:26,228  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+17:01:26,229  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+17:01:26,230  INFO connections:141 - HHH10001003: Autocommit mode: false
+17:01:26,231  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+17:01:26,244  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+17:01:26,632  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+17:01:26,676  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+17:01:27,951  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+17:03:06,536  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+17:03:06,542  INFO Environment:213 - HHH000206: hibernate.properties not found
+17:03:06,543  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+17:03:06,939  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+17:03:08,946  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+17:03:08,954  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+17:03:08,954  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+17:03:08,955  INFO connections:141 - HHH10001003: Autocommit mode: false
+17:03:08,956  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+17:03:08,963  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+17:03:09,362  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+17:03:09,408  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+17:03:10,831  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+17:03:54,368  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+17:03:54,374  INFO Environment:213 - HHH000206: hibernate.properties not found
+17:03:54,376  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+17:03:54,766  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+17:03:56,401  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+17:03:56,407  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+17:03:56,408  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+17:03:56,408  INFO connections:141 - HHH10001003: Autocommit mode: false
+17:03:56,408  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+17:03:56,418  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+17:03:56,740  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+17:03:56,790  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+17:03:58,082  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+17:05:23,777  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+17:05:23,782  INFO Environment:213 - HHH000206: hibernate.properties not found
+17:05:23,784  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+17:05:24,212  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+17:05:25,851  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+17:05:25,860  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+17:05:25,861  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+17:05:25,861  INFO connections:141 - HHH10001003: Autocommit mode: false
+17:05:25,862  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+17:05:25,873  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+17:05:26,180  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+17:05:26,227  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+17:05:27,525  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+17:06:13,546  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+17:06:13,552  INFO Environment:213 - HHH000206: hibernate.properties not found
+17:06:13,554  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+17:06:13,929  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+17:06:15,513  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+17:06:15,520  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+17:06:15,520  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+17:06:15,521  INFO connections:141 - HHH10001003: Autocommit mode: false
+17:06:15,522  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+17:06:15,530  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+17:06:15,851  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+17:06:15,899  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+17:06:17,160  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+17:08:16,938  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+17:08:16,945  INFO Environment:213 - HHH000206: hibernate.properties not found
+17:08:16,948  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+17:08:17,342  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+17:08:19,349  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+17:08:19,358  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+17:08:19,359  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+17:08:19,360  INFO connections:141 - HHH10001003: Autocommit mode: false
+17:08:19,360  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+17:08:19,368  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+17:08:19,764  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+17:08:19,811  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+17:08:21,064  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:20:54,738  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:20:54,759  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:20:54,765  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:20:55,744  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:20:57,807  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:20:57,812  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:20:57,813  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:20:57,813  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:20:57,814  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:20:57,819  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:20:59,637  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:20:59,684  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:21:01,043  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:23:10,276  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:23:10,289  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:23:10,291  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:23:10,717  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:23:12,292  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:23:12,298  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:23:12,299  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:23:12,299  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:23:12,299  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:23:12,304  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:23:12,649  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:23:12,702  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:23:14,196  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:27:50,139  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:27:50,145  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:27:50,146  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:27:50,579  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:27:52,190  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:27:52,197  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:27:52,197  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:27:52,198  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:27:52,198  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:27:52,203  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:27:52,541  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:27:52,600  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:27:54,053  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:27:54,425  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:29:04,003  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:29:04,009  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:29:04,010  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:29:04,465  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:29:06,230  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:29:06,235  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:29:06,236  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:29:06,236  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:29:06,236  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:29:06,240  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:29:06,535  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:29:06,581  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:29:07,802  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:29:08,139  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:29:56,126  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:29:56,132  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:29:56,134  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:29:56,580  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:29:58,680  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:29:58,688  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:29:58,689  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:29:58,690  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:29:58,690  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:29:58,699  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:29:59,317  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:29:59,386  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:30:01,404  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:30:02,112  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:31:32,982  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:31:32,989  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:31:32,992  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:31:33,477  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:31:35,290  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:31:35,297  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:31:35,298  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:31:35,298  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:31:35,299  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:31:35,304  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:31:35,604  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:31:35,650  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:31:36,913  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:31:37,246  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:38:10,066  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:38:10,073  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:38:10,075  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:38:10,556  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:38:12,251  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:38:12,257  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:38:12,257  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:38:12,258  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:38:12,258  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:38:12,265  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:38:12,584  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:38:12,630  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:38:13,888  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:38:14,208  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:39:22,545  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:39:22,550  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:39:22,552  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:39:22,965  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:39:24,577  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:39:24,583  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:39:24,583  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:39:24,584  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:39:24,584  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:39:24,588  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:39:24,918  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:39:24,977  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:39:26,232  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:39:26,541  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:41:22,410  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:41:22,416  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:41:22,418  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:41:22,792  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:41:24,615  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:41:24,623  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:41:24,624  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:41:24,624  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:41:24,624  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:41:24,631  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:41:25,040  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:41:25,099  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:41:26,636  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:41:27,013  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:43:08,452  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:43:08,458  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:43:08,460  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:43:08,855  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:43:10,415  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:43:10,421  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:43:10,422  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:43:10,422  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:43:10,423  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:43:10,429  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:43:10,749  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:43:10,812  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:43:12,111  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:43:12,445  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:46:44,979  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:46:44,985  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:46:44,986  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:46:45,362  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:46:46,899  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:46:46,905  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:46:46,906  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:46:46,907  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:46:46,908  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:46:46,913  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:46:47,205  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:46:47,247  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:46:48,517  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:46:48,830  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:46:48,944  WARN HqlSqlWalker:992 - [DEPRECATION] Encountered positional parameter near line 1, column 67 in HQL: [select a from com.suidian.www.onetomanay.Linkman a where lkm_id < ? and lkm_name like ? order by a.lkm_phone desc].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+20:46:48,945  WARN HqlSqlWalker:992 - [DEPRECATION] Encountered positional parameter near line 1, column 87 in HQL: [select a from com.suidian.www.onetomanay.Linkman a where lkm_id < ? and lkm_name like ? order by a.lkm_phone desc].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+20:47:11,945  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:47:11,951  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:47:11,953  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:47:12,355  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:47:13,852  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:47:13,857  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:47:13,858  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:47:13,858  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:47:13,859  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:47:13,866  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:47:14,202  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:47:14,253  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:47:15,677  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:47:16,058  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:47:16,165  WARN HqlSqlWalker:992 - [DEPRECATION] Encountered positional parameter near line 1, column 67 in HQL: [select a from com.suidian.www.onetomanay.Linkman a where lkm_id < ? and lkm_name like ? order by a.lkm_phone desc].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+20:47:16,169  WARN HqlSqlWalker:992 - [DEPRECATION] Encountered positional parameter near line 1, column 87 in HQL: [select a from com.suidian.www.onetomanay.Linkman a where lkm_id < ? and lkm_name like ? order by a.lkm_phone desc].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+20:48:06,843  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:48:06,848  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:48:06,850  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:48:07,227  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:48:08,734  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:48:08,742  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:48:08,743  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:48:08,744  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:48:08,744  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:48:08,748  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:48:09,093  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:48:09,144  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:48:10,631  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:48:10,969  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:48:11,097  WARN HqlSqlWalker:992 - [DEPRECATION] Encountered positional parameter near line 1, column 67 in HQL: [select a from com.suidian.www.onetomanay.Linkman a where lkm_id < ? and lkm_name like ? order by a.lkm_phone desc].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+20:48:11,100  WARN HqlSqlWalker:992 - [DEPRECATION] Encountered positional parameter near line 1, column 87 in HQL: [select a from com.suidian.www.onetomanay.Linkman a where lkm_id < ? and lkm_name like ? order by a.lkm_phone desc].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+20:51:15,290  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:51:15,296  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:51:15,298  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:51:15,749  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:51:17,629  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:51:17,636  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:51:17,636  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:51:17,637  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:51:17,637  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:51:17,642  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:51:17,933  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:51:17,978  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:51:19,238  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:51:19,589  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:53:04,794  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:53:04,799  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:53:04,800  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:53:05,178  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:53:06,810  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:53:06,816  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:53:06,817  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:53:06,817  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:53:06,818  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:53:06,823  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:53:07,118  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:53:07,169  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:53:08,433  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:53:08,794  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:53:08,883 ERROR ErrorCounter:60 - line 1:17: unexpected token: lkm_phone
+20:53:08,884 ERROR ErrorCounter:55 - line 1:17: unexpected token: lkm_phone
+line 1:17: unexpected token: lkm_phone
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.aliasedExpression(HqlBaseParser.java:2365)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.selectedPropertiesList(HqlBaseParser.java:1372)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.selectClause(HqlBaseParser.java:1282)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.selectFrom(HqlBaseParser.java:1022)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.queryRule(HqlBaseParser.java:730)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.selectStatement(HqlBaseParser.java:323)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.statement(HqlBaseParser.java:186)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.parse(QueryTranslatorImpl.java:279)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.doCompile(QueryTranslatorImpl.java:187)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.compile(QueryTranslatorImpl.java:142)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:115)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:76)
+	at org.hibernate.engine.query.spi.QueryPlanCache.getHQLQueryPlan(QueryPlanCache.java:150)
+	at org.hibernate.internal.AbstractSessionImpl.getHQLQueryPlan(AbstractSessionImpl.java:302)
+	at org.hibernate.internal.AbstractSessionImpl.createQuery(AbstractSessionImpl.java:240)
+	at org.hibernate.internal.SessionImpl.createQuery(SessionImpl.java:1894)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.hibernate.context.internal.ThreadLocalSessionContext$TransactionProtectionWrapper.invoke(ThreadLocalSessionContext.java:338)
+	at com.sun.proxy.$Proxy25.createQuery(Unknown Source)
+	at com.suidian.www.find.hqlTest.demo2(hqlTest.java:68)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
+20:53:48,099  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:53:48,105  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:53:48,107  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:53:48,485  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:53:49,999  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:53:50,008  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:53:50,009  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:53:50,011  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:53:50,012  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:53:50,016  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:53:50,318  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:53:50,363  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:53:51,618  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:53:51,958  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:54:45,815  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:54:45,820  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:54:45,822  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:54:46,190  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:54:47,989  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:54:47,994  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:54:47,995  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:54:47,995  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:54:47,996  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:54:48,000  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:54:48,315  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:54:48,368  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:54:49,907  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:54:50,227  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:55:31,187  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:55:31,194  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:55:31,195  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:55:31,583  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:55:33,175  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:55:33,182  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:55:33,182  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:55:33,183  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:55:33,184  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:55:33,187  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:55:33,472  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:55:33,516  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:55:35,108  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:55:35,560  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+20:57:26,538  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+20:57:26,544  INFO Environment:213 - HHH000206: hibernate.properties not found
+20:57:26,546  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+20:57:26,928  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+20:57:28,424  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:57:28,432  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+20:57:28,433  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+20:57:28,451  INFO connections:141 - HHH10001003: Autocommit mode: false
+20:57:28,452  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+20:57:28,457  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:57:28,741  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:57:28,789  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+20:57:30,052  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+20:57:30,391  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+21:00:56,751  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+21:00:56,757  INFO Environment:213 - HHH000206: hibernate.properties not found
+21:00:56,759  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+21:00:57,226  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+21:00:59,174  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+21:00:59,180  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+21:00:59,181  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+21:00:59,181  INFO connections:141 - HHH10001003: Autocommit mode: false
+21:00:59,182  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+21:00:59,186  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+21:00:59,489  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+21:00:59,538  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+21:01:00,767  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+21:01:01,118  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+21:05:37,191  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+21:05:37,197  INFO Environment:213 - HHH000206: hibernate.properties not found
+21:05:37,199  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+21:05:37,650  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+21:05:39,389  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+21:05:39,395  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+21:05:39,396  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+21:05:39,396  INFO connections:141 - HHH10001003: Autocommit mode: false
+21:05:39,397  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+21:05:39,400  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+21:05:39,692  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+21:05:39,742  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+21:05:41,152  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+21:05:41,491  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+21:09:15,979  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+21:09:15,987  INFO Environment:213 - HHH000206: hibernate.properties not found
+21:09:15,988  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+21:09:16,463  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+21:09:18,237  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+21:09:18,244  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+21:09:18,244  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+21:09:18,245  INFO connections:141 - HHH10001003: Autocommit mode: false
+21:09:18,245  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+21:09:18,250  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+21:09:18,558  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+21:09:18,606  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+21:09:19,889  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+21:09:20,232  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+22:34:49,118  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+22:34:49,145  INFO Environment:213 - HHH000206: hibernate.properties not found
+22:34:49,148  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+22:34:49,578  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+22:34:51,746  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+22:34:51,752  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+22:34:51,752  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+22:34:51,753  INFO connections:141 - HHH10001003: Autocommit mode: false
+22:34:51,753  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+22:34:51,758  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+22:34:53,445  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+22:34:53,493  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+22:34:56,971  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+22:38:33,069  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+22:38:33,075  INFO Environment:213 - HHH000206: hibernate.properties not found
+22:38:33,076  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+22:38:33,446  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+22:38:35,009  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+22:38:35,015  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+22:38:35,015  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+22:38:35,016  INFO connections:141 - HHH10001003: Autocommit mode: false
+22:38:35,016  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+22:38:35,019  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+22:38:35,299  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+22:38:35,345  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+22:38:36,625  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+22:39:52,196  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+22:39:52,205  INFO Environment:213 - HHH000206: hibernate.properties not found
+22:39:52,207  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+22:39:52,585  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+22:39:54,123  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+22:39:54,128  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+22:39:54,129  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+22:39:54,130  INFO connections:141 - HHH10001003: Autocommit mode: false
+22:39:54,131  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+22:39:54,137  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+22:39:54,414  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+22:39:54,470  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+22:39:55,755  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+22:44:37,443  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+22:44:37,449  INFO Environment:213 - HHH000206: hibernate.properties not found
+22:44:37,451  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+22:44:37,893  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+22:44:39,496  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+22:44:39,502  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+22:44:39,503  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+22:44:39,503  INFO connections:141 - HHH10001003: Autocommit mode: false
+22:44:39,504  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+22:44:39,508  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+22:44:39,809  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+22:44:39,865  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+22:44:41,118  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+22:44:53,037  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+22:44:53,043  INFO Environment:213 - HHH000206: hibernate.properties not found
+22:44:53,045  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+22:44:53,415  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+22:44:55,291  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+22:44:55,299  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+22:44:55,301  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+22:44:55,301  INFO connections:141 - HHH10001003: Autocommit mode: false
+22:44:55,302  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+22:44:55,312  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+22:44:55,679  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+22:44:55,725  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+22:44:56,913  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+22:50:48,173  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+22:50:48,179  INFO Environment:213 - HHH000206: hibernate.properties not found
+22:50:48,180  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+22:50:48,614  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+22:50:50,236  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+22:50:50,243  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+22:50:50,243  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+22:50:50,244  INFO connections:141 - HHH10001003: Autocommit mode: false
+22:50:50,244  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+22:50:50,248  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+22:50:50,657  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+22:50:50,737  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+22:50:52,374  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+22:56:14,774  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+22:56:14,787  INFO Environment:213 - HHH000206: hibernate.properties not found
+22:56:14,790  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+22:56:15,408  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+22:56:17,426  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+22:56:17,438  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+22:56:17,439  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+22:56:17,439  INFO connections:141 - HHH10001003: Autocommit mode: false
+22:56:17,440  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+22:56:17,454  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+22:56:17,907  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+22:56:17,959  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+22:56:19,681  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+08:57:49,608  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+08:57:49,673  INFO Environment:213 - HHH000206: hibernate.properties not found
+08:57:49,677  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+08:57:50,120  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+08:57:52,735  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+08:57:52,741  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+08:57:52,742  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+08:57:52,742  INFO connections:141 - HHH10001003: Autocommit mode: false
+08:57:52,743  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+08:57:52,755  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+08:57:54,518  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+08:57:54,560  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+08:57:55,782  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+08:57:57,078  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+09:00:33,030  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+09:00:33,036  INFO Environment:213 - HHH000206: hibernate.properties not found
+09:00:33,038  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+09:00:33,636  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+09:00:35,515  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+09:00:35,521  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+09:00:35,522  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+09:00:35,523  INFO connections:141 - HHH10001003: Autocommit mode: false
+09:00:35,523  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+09:00:35,527  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+09:00:36,013  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+09:00:36,061  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+09:00:37,388  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+09:00:37,740  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+09:02:37,511  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+09:02:37,516  INFO Environment:213 - HHH000206: hibernate.properties not found
+09:02:37,518  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+09:02:38,033  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+09:02:40,559  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+09:02:40,564  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+09:02:40,565  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+09:02:40,565  INFO connections:141 - HHH10001003: Autocommit mode: false
+09:02:40,566  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+09:02:40,570  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+09:02:40,836  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+09:02:40,877  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+09:02:41,997  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+09:02:42,292  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+09:08:02,084  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+09:08:02,093  INFO Environment:213 - HHH000206: hibernate.properties not found
+09:08:02,095  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+09:08:02,560  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+09:08:04,580  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+09:08:04,586  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+09:08:04,587  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+09:08:04,587  INFO connections:141 - HHH10001003: Autocommit mode: false
+09:08:04,587  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+09:08:04,594  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+09:08:04,962  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+09:08:05,032  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+09:08:06,378  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+09:08:06,756  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+09:08:46,140  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+09:08:46,145  INFO Environment:213 - HHH000206: hibernate.properties not found
+09:08:46,147  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+09:08:46,591  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+09:08:48,322  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+09:08:48,329  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+09:08:48,329  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+09:08:48,330  INFO connections:141 - HHH10001003: Autocommit mode: false
+09:08:48,331  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+09:08:48,336  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+09:08:48,633  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+09:08:48,676  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+09:08:49,754  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+09:08:50,061  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+09:14:52,069  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+09:14:52,078  INFO Environment:213 - HHH000206: hibernate.properties not found
+09:14:52,082  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+09:14:52,629  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+09:14:54,389  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+09:14:54,394  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+09:14:54,395  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+09:14:54,395  INFO connections:141 - HHH10001003: Autocommit mode: false
+09:14:54,397  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+09:14:54,402  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+09:14:54,706  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+09:14:54,748  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+09:14:55,863  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+09:17:01,983  INFO Version:37 - HHH000412: Hibernate Core {5.0.7.Final}
+09:17:01,989  INFO Environment:213 - HHH000206: hibernate.properties not found
+09:17:01,991  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+09:17:02,379  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+09:17:03,811  WARN connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+09:17:03,819  INFO connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3307/hibernate_suidian]
+09:17:03,820  INFO connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+09:17:03,820  INFO connections:141 - HHH10001003: Autocommit mode: false
+09:17:03,821  INFO connections:146 - HHH10001007: JDBC isolation level: REPEATABLE_READ
+09:17:03,826  INFO DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+09:17:04,112  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+09:17:04,155  INFO LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+09:17:05,266  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update

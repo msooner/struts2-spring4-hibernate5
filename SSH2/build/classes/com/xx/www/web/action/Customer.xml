@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+	<!-- 开启动态方法访问 -->
+	<constant name="struts.enable.DynamicMethodInvocation" value="true"></constant>
+	
+	<package name="welcome" extends="struts-default" namespace="/">
+   		<!-- 跳转input类型转换等错误 -->
+		<global-results>
+			<result name="input">/content/test.jsp</result>
+		</global-results>
+   		<!-- 通配符方式 -->
+   		<action name="*_customer" method="{1}" class="customerAction">
+   			
+   		</action>
+   		
+   		
+   		
+   </package>
+</struts>

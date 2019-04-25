@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:p="http://www.springframework.org/schema/p" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans 
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+   <!-- 
+    	IOC: 控制反转，将对象的创建权换装给了Spring
+    		DI： 依赖注入，前提必须有IOC的环境，Spring管理这个类的时候将类的依赖的属性注入（设置）进来
+     -->
+     <!-- 
+     	bean的作用范围配置：
+     		scope ： Bean的作用范围
+     			*singleton：默认的，Spring会采用单例模式创建这个对象
+     			*prototype：多例模式
+     			request:应用在web项目中，Spring创建这个类之后，将这个类存入到request范围中
+     			session：应用在web项目中，Spring创建这个类之后，将这个类存入到session范围中
+     			globalsession：应用在web项目中，必须在prolet环境下使用
+      -->
+     <!-- 普通方式属性注入 -->
+    <!-- <bean id="car2" class="com.suidian.www.demo1.Car">
+    	<property name="name" value="奔驰"></property>
+    	<property name="price" value="1000000"></property>
+    </bean>
+     
+	<bean id="user" class="com.suidian.www.demo1.UserImp">
+	
+		注入普通属性
+		<property name="name" value="Jack"></property>
+		<property name="age" value="12"></property>
+		
+		注入对象属性，用ref
+		<property name="car" ref="car2"></property>
+	</bean> -->
+	
+	<!-- p名称空间方式属性注入 -->
+	<!-- 普通属性 p:属性名 -->
+	<!-- <bean id="car2" class="com.suidian.www.demo1.Car" p:name="宝马" p:price="99999"></bean> -->
+	<!-- 对象属性 p:对象属性名-ref -->
+	<!-- <bean id="user" class="com.suidian.www.demo1.UserImp" p:name="小刚" p:car-ref="car2"></bean> -->
+	
+	<!-- SpEL方式属性注入 -->
+	<bean id="car2" class="com.suidian.www.demo1.Car">
+		<property name="name" value="#{'大众'}"></property>
+		<property name="price" value="#{888888888}"></property>
+	</bean>
+
+	<bean id="user" class="com.suidian.www.demo1.UserImp">
+		<property name="name" value="#{'小杰'}"></property>
+		<property name="age" value="#{26}"></property>
+		<property name="car" value="#{car2}"></property>
+	</bean>
+	
+	
+	<!-- 集合类型属性注入 -->
+	<bean id="coll" class="com.suidian.www.demo1.CollectionDao">
+		<property name="arrs">
+			<list>
+				<value>'a'</value>
+				<value>'b'</value>
+				<value>'c'</value>
+			</list>
+		</property>
+		
+		<property name="lists">
+			<list>
+				<value>'1'</value>
+				<value>'2'</value>
+				<value>'3'</value>
+			</list>
+		</property>
+		
+		<property name="sets">
+			<set>
+				<value>aaa</value>
+				<value>aba</value>
+				<value>aab</value>
+			</set>
+		</property>
+		
+		<property name="maps">
+			<map>
+				<entry key="a1" value="b1"></entry>
+				<entry key="a2" value="b2"></entry>
+				<entry key="a3" value="b3"></entry>
+			</map>
+		</property>
+	</bean>     
+        
+   
+</beans>

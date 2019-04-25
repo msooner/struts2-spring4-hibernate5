@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<!-- 
+		类的延迟
+		lazy="true" 默认true
+	 -->
+	<class name="com.suidian.www.onetomanay.Customer" table="cst_customer">
+		<id name="cust_id" column="cust_id">
+			<generator class="native"></generator>
+		</id>
+		
+		<property name="cust_name"></property>
+		<property name="cust_source"></property>
+		<property name="cust_industry"></property>
+		<property name="cust_level"></property>
+		<property name="cust_phone"></property>
+		<property name="cust_mobile"></property>
+		
+		<!-- 
+			set标签：
+				name：多的一方的外键的名称
+				cascade:设置级联保存或删除
+				inverse:放弃外键维护权
+		 -->
+		 
+		 <!-- 优化：
+		 	fetch:抓取策略，控制sql语句格式
+		 		select：默认值，发送普通的select语句，查询关联对象
+		 		join：发送一条迫切左外连接查询对象
+		 		subselect:发送一条子查询查询其关联对象
+		 	
+		 	lazy：延迟加载，控制查询关联对象的时候是否采用延迟
+		 		true：默认值，查询关联对象的是否，采用延迟加载
+		 		flase：查询关联对象的时候，不采用延迟加载
+		 		extra：及其懒惰，用什么发什么sql语句
+		 	
+		 	batch-size:批量抓取，默认为1
+		  -->
+		<set name="linkmans" cascade="save-update,delete">
+			<!-- 
+				key标签：
+					column：多的一方的外键名称
+			 -->
+			<key column="cust_id"></key>
+			<!-- 
+				one-to-many标签：
+					class：多的一方的类的全路径
+			 -->
+			<one-to-many class="com.suidian.www.onetomanay.Linkman"/>
+		</set>
+	</class>
+</hibernate-mapping>

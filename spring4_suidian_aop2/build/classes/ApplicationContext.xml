@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans.xsd
+	http://www.springframework.org/schema/context
+	http://www.springframework.org/schema/context/spring-context.xsd
+	http://www.springframework.org/schema/aop
+	http://www.springframework.org/schema/aop/spring-aop.xsd
+	http://www.springframework.org/schema/tx 
+	http://www.springframework.org/schema/tx/spring-tx.xsd">
+        <!-- 在配置文件中开启注解的AOP的开发 -->
+		<aop:aspectj-autoproxy/>
+		
+		<!-- 配置目标类 -->
+		<bean id="userDao" class="com.xx.www.demo1.UserDao"></bean>
+		<!-- 配置切面类 -->
+		<bean id="myAspectJ" class="com.xx.www.demo1.MyAspectJ"></bean>
+
+		<!--  配置spring内置连接池
+		<bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+			配置数据库连接相关属性
+			<property name="driverClassName" value="com.mysql.jdbc.Driver"/>
+			<property name="url" value="jdbc:mysql://localhost:3307/spring"/>
+			<property name="username" value="root"/>
+			<property name="password" value="ubuntu"/>
+		</bean>
+		
+		配置spring的JDBC的模板 
+		<bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+			<property name="dataSource" ref="dataSource"></property>
+		</bean> -->
+		
+		<!-- DBCP连接 -->
+		<!-- <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource">
+			<property name="driverClassName" value="com.mysql.jdbc.Driver"/>
+			<property name="url" value="jdbc:mysql://localhost:3307/spring"/>
+			<property name="username" value="root"/>
+			<property name="password" value="ubuntu"/>
+		</bean>
+		
+		<bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+			<property name="dataSource" ref="dataSource"></property>
+		</bean> -->
+		
+		<!-- c3p0 -->
+		<!-- <bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
+			<property name="driverClass" value="com.mysql.jdbc.Driver"/>
+			<property name="jdbcUrl" value="jdbc:mysql://localhost:3307/spring"/>
+			<property name="user" value="root"/>
+			<property name="password" value="ubuntu"/>
+		</bean>
+		
+		<bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+			<property name="dataSource" ref="dataSource"></property>
+		</bean> -->
+		
+		<!-- 引入属性文件 -->
+		<!-- <context:property-placeholder location="classpath:jdbc.properties"/>
+		
+		<bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
+			<property name="driverClass" value="${jdbc.driverClass}"/>
+			<property name="jdbcUrl" value="${jdbc.url}"/>
+			<property name="user" value="${jdbc.username}"/>
+			<property name="password" value="${jdbc.password}"/>
+		</bean>
+		
+		<bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+			<property name="dataSource" ref="dataSource"></property>
+		</bean> -->
+		
+		<context:property-placeholder location="classpath:jdbc.properties"/>
+		
+		<bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
+			<property name="driverClass" value="${jdbc.driverClass}"/>
+			<property name="jdbcUrl" value="${jdbc.url}"/>
+			<property name="user" value="${jdbc.username}"/>
+			<property name="password" value="${jdbc.password}"/>
+		</bean>
+		
+		
+		<bean id="accountDao" class="com.xx.www.demo3.AccountDaoImp">
+			<property name="dataSource" ref="dataSource"></property>
+		</bean>
+		<bean id="accountService" class="com.xx.www.demo3.AccountServiceImp">
+			<property name="accountDao" ref="accountDao"></property>
+		</bean>
+		
+		
+		 <!-- 配置事务管理器 -->
+		<!--<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+			<property name="dataSource" ref="dataSource"></property>
+		</bean>
+		
+		配置事务的增强
+		<tx:advice id="txAdvice" transaction-manager="transactionManager">
+			事务管理的规则
+			<tx:attributes>
+				<tx:method name="save*" propagation="REQUIRED"/>
+				<tx:method name="update*" propagation="REQUIRED"/>
+				<tx:method name="delete*" propagation="REQUIRED"/>
+				<tx:method name="find*" read-only="true"/>
+				<tx:method name="*" propagation="REQUIRED"/>
+			</tx:attributes>
+		</tx:advice>
+		
+		AOP配置
+		<aop:config>
+			<aop:pointcut expression="execution(* com.xx.www.demo3.AccountServiceImp.*(..))" id="pointcut1"/>
+			<aop:advisor advice-ref="txAdvice" pointcut-ref="pointcut1"/>
+		</aop:config> -->
+		
+		<!-- 注解方式配置事务 -->
+		<!-- 配置事务管理器 -->
+		<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+			<property name="dataSource" ref="dataSource"></property>
+		</bean>
+		
+		<!-- 开启注解事务 -->
+		<tx:annotation-driven transaction-manager="transactionManager"/>
+		
+</beans>

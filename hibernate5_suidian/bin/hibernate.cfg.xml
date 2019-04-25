@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+	<session-factory>
+		<!-- 连接数据库基本参数 -->
+		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+		<property name="hibernate.connection.url">jdbc:mysql://localhost:3307/hibernate_suidian</property>
+		<property name="hibernate.connection.username">root</property>
+		<property name="hibernate.connection.password">ubuntu</property>
+		<!-- 配置mysql引擎 -->
+		<property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+		
+		<!-- 可选配置：打印sql语句 -->
+		<property name="hibernate.show_sql">true</property>
+		<!-- 可选配置：格式化sql语句 -->
+		<property name="hibernate.format_sql">true</property>
+		<!-- 
+			可选配置：自动建表
+			none：不使用hibernate自动建表
+			create:如果已经有表，删除后重建，如果没有，新建表（测试）
+			create-drop:如果已经有表删除，执行操作，删除这个表，如果没有表新建一个，执行完操作后，删除表
+			*update:如果有表，使用原有表，没有就新建（更新表结构）
+			*validate：如果没有不会新建，只会使用原有表（检验映射和表结构是否一致，不一致报错）
+		 -->
+		 <property name="hibernate.hbm2ddl.auto">update</property>
+		
+		<!-- 
+			1.事务特性
+				原子性：事务不可分割
+				一致性：事务执行前后，数据的完整性一致
+				隔离性：一个事务执行过程中不受其他事务干扰
+				持久性：事务执行完后，数据就持久到数据库中
+			
+			2.不考虑隔离性，引发的安全问题
+				脏读：一个事务读到另一个事务还未提交的数据
+				不可重复读：一个事务读到另一个事务已经提交的update数据，导致在前一个事务的查询结果不一致
+				虚读：一个事务读到另一个事务已经提交的insert数据，导致在前一个事务的查询结果不一致
+		 
+		 	3.读问题解决
+		 		设置事务的隔离级别
+		 		1：Read uncommitted：以上读问题都会发生
+		 		2：*Read committed：解决脏读
+		 		4：*Repeatable read：解决脏读和不可重复读
+		 		8：Serializable：解决所有问题
+		 		
+		 -->
+		 <!-- 设置事务隔离级别，默认4 -->
+		<property name="hibernate.connection.isolation">4</property>
+			
+		<!-- 配置session绑定本地线程 -->
+		<property name="hibernate.current_session_context_class">thread</property>
+		
+		<!-- 引入映射文件 -->
+		<mapping resource="com/suidian/www/demo1/hibernate.hbm.xml"/>
+		<mapping resource="com/suidian/www/onetomanay/customer.hbm.xml"/>
+		<mapping resource="com/suidian/www/onetomanay/linkman.hbm.xml"/>
+		<mapping resource="com/suidian/www/manytomany/Role.hbm.xml"/>
+		<mapping resource="com/suidian/www/manytomany/User.hbm.xml"/>
+		
+	</session-factory>
+</hibernate-configuration>
