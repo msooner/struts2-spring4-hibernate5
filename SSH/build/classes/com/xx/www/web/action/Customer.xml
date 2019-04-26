@@ -13,7 +13,7 @@
 		</global-results>
    		<!-- 通配符方式 -->
    		<action name="*_customer" method="{1}" class="customerAction">
-   			
+   			<result name="success">/content/welcome.jsp</result>
    		</action>
    		
    		

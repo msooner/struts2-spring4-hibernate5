@@ -20,7 +20,6 @@
 		<property name="configLocation" value="classpath:hibernate.cfg.xml"></property>
 	</bean>
 	
-	
 	<!-- 配置action prototype将action设置为多例-->
 	<bean id="customerAction" class="com.xx.www.web.action.CustomerAction" scope="prototype">
 		<property name="customerService" ref="customerService"></property>
@@ -36,10 +35,10 @@
 	</bean>
 	
 	<!-- 配置事务管理器 -->
-	<!-- <bean id="transactionManager" class="org.springframework.orm.hibernate5.HibernateTransactionManager">
+	<bean id="transactionManager" class="org.springframework.orm.hibernate5.HibernateTransactionManager">
 		<property name="sessionFactory" ref="sessionFactory"></property>
-	</bean> -->
+	</bean>
 	
 	<!-- 开启注解事务 -->
-	<!--  <tx:annotation-driven transaction-manager="transactionManager"/>  -->
+	<tx:annotation-driven transaction-manager="transactionManager"/>
 </beans>

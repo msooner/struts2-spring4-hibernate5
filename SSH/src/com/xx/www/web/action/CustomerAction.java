@@ -24,11 +24,9 @@ public class CustomerAction extends ActionSupport implements ModelDriven<Custome
 
 
 	public String add() {
-		customer.setId(1);
-		customer.setName("张三");
 		System.out.println("add方法运行了" + customer);
 		customerService.save(customer);
-		return null;
+		return SUCCESS;
 	}
 	
 	

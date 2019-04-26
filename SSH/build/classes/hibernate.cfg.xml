@@ -25,6 +25,8 @@
 			*validate：如果没有不会新建，只会使用原有表（检验映射和表结构是否一致，不一致报错）
 		 -->
 		 <property name="hibernate.hbm2ddl.auto">update</property>
+		 <!-- 解决Cannot unwrap to requested type [javax.sql.DataSource]问题 -->
+		 <property name="hibernate.connection.provider_class">org.hibernate.c3p0.internal.C3P0ConnectionProvider</property>
 		 
 		<mapping resource="com/xx/www/domain/Customer.hbm.xml"/>
 	</session-factory>

@@ -1,5 +1,6 @@
 package com.xx.www.dao.Impl;
 
+import org.hibernate.FlushMode;
 import org.springframework.orm.hibernate5.support.HibernateDaoSupport;
 
 import com.xx.www.dao.CustomerDao;
